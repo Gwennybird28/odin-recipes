@@ -1,0 +1,30 @@
+#page
+{
+background-color:lightgoldenrodyellow;
+text-align: center;
+}
+
+.homepage-title
+{
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+h1
+
+{
+
+    color: darkblue;
+    text-align: center;
+    
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
